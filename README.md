@@ -6,3 +6,6 @@
   
 2)A user interface is like a joke...<br>
   ...If you have to explain it then it is not that good.
+  
+3)A programmer puts two glasses on his bedside table before going to sleep...<br>
+  ...A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
