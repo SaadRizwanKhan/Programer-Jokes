@@ -15,3 +15,5 @@
   
 5)How many programmers does it take to change a lightbulb?....<br>
   ..None that's a hardware problem. 
+  
+6)Copy-and-Paste was programmed by programmers for programmers actually.
